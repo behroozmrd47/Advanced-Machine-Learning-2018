@@ -1,0 +1,9 @@
+[submodule "CS-498-AML-HW5"]
+	path = CS-498-AML-HW5
+	url = https://github.com/yusufnb/CS-498-AML-HW5.git
+[submodule "cs-498-hw6"]
+	path = cs-498-hw6
+	url = https://github.com/yusufnb/cs-498-hw6.git
+[submodule "cs-498-hw7"]
+	path = cs-498-hw7
+	url = https://github.com/yusufnb/cs-498-hw7.git
